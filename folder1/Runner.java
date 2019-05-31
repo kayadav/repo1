@@ -2,7 +2,8 @@ public class Runner {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Application: "+args[0]);
+		System.out.println("args is going to print");
+		System.out.println("Application Name: "+args[0]);
 		System.out.println("Module: "+args[1]);
 		System.out.println("Platform: "+args[2]);
 		System.out.println("Environment: "+args[3]);
